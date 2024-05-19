@@ -5,7 +5,6 @@ A simple Python script to check if a given number is prime.
 ## Features
 
 - Check if a number is prime
-- Efficient algorithm to handle large numbers
 
 ## Requirements
 
